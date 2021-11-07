@@ -1,0 +1,11 @@
+Package: profile.d
+Priority: standard
+Section: Administration
+Maintainer: Ethan Blair
+Architecture: iphoneos-arm
+Version: 0-7
+Pre-Depends: system-cmds (>=805.220.1)
+Depends: zsh
+Description: makes packaging for /etc/profile reasonable
+Name: Profile Directory
+Installed-Size: 12
